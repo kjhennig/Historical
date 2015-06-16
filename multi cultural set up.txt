@@ -1,0 +1,66 @@
+﻿
+The night before the multi-cultural dinner the committee was setting up and I 
+dropped by to do a sound check with them.  I arrived on time to find that 
+nothing microphone related was set up, so I got in touch with the poor guy who 
+is the "on call" guy at the venue (and isn't technical by any means) and he got 
+me two microphones and some cables, and showed me where the jacks were.
+The mics didn't work in one of the jacks, so I went through the trouble 
+shooting procedure you would do ...   
+Simplify: is it a jack problem, a cable problem, a mic problem?
+
+It was pretty obvious that it was a jack problem (as both mics and cables 
+worked in different jacks).  Just to be sure, I even re-patched the amplifier, 
+and sure enough, the none working jack STILL didn't work, with working patches 
+from the other jacks in it.  So I repatched everything to it's original 
+position, dusted the amplifier that was amazingly dirty, ran a long cable from 
+a working jack to where the podium would be, set up the mic stand, placed the 
+microphone, and was ready to leave when this guy who was running the music 
+arrived - about 45 minutes late.
+He looks at the set up, and says "no, no, no, the microphone should come from 
+THAT jack.  That's what we used last year".
+So I tell him that the jack doesn't work, I have tested it.  He gives me a 
+patronizing smile and says, "you just have to know how to hook it up", and 
+unpatches everything I have done and runs a cable to the non-working jack.  No 
+sound.  He tried a different microphone, still no sound.  He comes over to me 
+and says "these mics aren't working".
+I tell him (with a very sweet smile) that they work just fine with the other 
+jacks.  He tells me this is impossible.  He then tests them in the working 
+jacks, and, of course, they do work.  I smile sweetly.
+He then RE-patches the mic into the non-working jack, telling me that, now he 
+has the microphones working, they will work in this jack.  (This tells me that 
+he has no theory - as if you don't get signal from an amp, you don't get sound 
+- so he doesn't understand the fundamentals) Of course they don't.
+He goes and gets the little on call guy who says "I don't know anything about 
+microphones."
+
+I sweetly say, "I had the mics working before you came, maybe we should hook 
+them up that way again."
+
+He looks at me and says, "listen, sweetheart, let the men deal with this, 
+okay?" (hence the penis reference)
+
+I would like to stomp out, but I know I will be coming back at the last minute 
+before the dinner the next day to MC and if things aren't working, I'm the one 
+who is going to suffer.  Also I don't want to have to be patching and testing 
+on a short time line, so I smile tightly, and say "fine".
+
+They two of them play with the mics - even trying pushing buttons on the cd 
+player and cd amp - which has absolutely NOTHING to do with the micing system - 
+for about 30 minutes.  I sit on my hands and try not to fume too much, and then 
+mr. macho says "well, maybe we'll have to rent a system and bring it in."
+
+I say, "let's just try it my way, once.  I really think it might work.".  But 
+of course, they have completely unpatched everything in the mic amplifiers and 
+not labeled anything so it's a crap shoot.  Luckily mr. Macho is so busy trying 
+to explain to the organizers why the system isn't working that I can grab the 
+little on call guy and use him to plug one end of things in while I patch the 
+amp.  It works on our third configuration try.  Great surprise and delight from 
+organizers.  Mr. Macho does not look at me or talk to me but says to the little 
+on call guy, "great, you got it working'.  and stomps out.
+
+I predict we will not be pals in the future either.
+He was a pain to work with the next day too, as people kept asking me, during 
+the dinner, to turn the music down and when I would ask him to he would say 
+"there is only one way to do sound and I do it right".
+
+Ah, men, ya gotta love them.  Or have castration fantasies about specific ones.
